@@ -1,0 +1,118 @@
+html {
+    font-size: 16px;
+  }
+
+body {
+    width: 60rem;
+    height: 10rem;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #AA767C;
+    width: 100%;
+    height: 10rem;
+    text-align: center;
+    margin: 0 auto;
+    border: 0.2rem solid black;
+}
+
+header h1 {
+    padding: 0.4rem 1.2rem;
+    margin: 1.4rem 1.4rem;
+    text-align: center;
+    width: 20%;
+    float: left;
+
+}
+
+nav {
+    margin-top: 1rem;
+    text-align: right;
+}
+
+nav a {
+    border: 2px solid black;
+    background-color: white;
+    padding: 0 1.2rem;
+    margin: 0 auto;
+    font-size: 1.4rem;
+    text-decoration: none;
+}
+
+
+h2 {
+    font-size: 2.3rem;
+    font-style: italic;
+}
+
+#who {
+    display: flex;
+    align-content: center;
+
+}
+
+#who img {
+    display: inline-block;
+    width: 20rem;
+    height: 20rem;
+    background-size: cover;
+    margin-right: 5rem;
+}
+
+#who p {
+    display: inline-block;
+    font-size: 1.2rem;
+    line-height: 150%;
+    text-align: justify;
+    position: relative;
+    top: 2.5rem;
+}
+
+#hidden1 {
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 1.31rem;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+
+.company {
+    width: 6.875rem;
+    height: 6.25rem;
+    border: 1px solid black;
+    text-align: center;
+    margin: 2rem auto;
+    background-image: url("./media/me.jpg");
+}
+
+#balisex {
+    background-image: url("./media/balisex.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+#webhelp {
+    background-image: url("./media/webhelp.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+#limostar {
+    background-image: url("./media/limostar.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+#udea {
+    background-image: url("./media/udea.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+#tp {
+    background-image: url("./media/tp.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+#cnx {
+    background-image: url("./media/cnx.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
