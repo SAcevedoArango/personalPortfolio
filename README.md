@@ -39,9 +39,9 @@ Concentrix es otra multinacional líder en el sector del BPO. Allí me desempeñ
 
 PROYECTOS:
 
-Portafolio: h4 - Portafolio personal - Este sitio web fue creado como hub de los demás proyectos y como parte del portafolio mismo. Si desea acceder al repositorio correspondiente puede dar click en el enlace de GitHub a la derecha.
+Portafolio: h3 - Portafolio personal - Este sitio web fue creado como hub de los demás proyectos y como parte del portafolio mismo. Si desea acceder al repositorio correspondiente puede dar click en el enlace de GitHub a la derecha.
 
-Mensajes aleatorizados: h4 - Mensajes aleatorizados - Esta aplicación toma 3 matrices de datos diferentes, escoge de una primera matriz un valor aleatorio, posteriormente escoge del segundo conjunto de datos otro valor aleatorio, teniendo en cuenta la elección en la primera matriz, finalmente toma un último valor aleatorio de un tercer set de datos, lo concatena todo y lo presenta al usuario a manera de un tip o consejo de salud diario. Si desea acceder al repositorio correspondiente puede dar click en el enlace de GitHub a la derecha.
+Mensajes aleatorizados: h3 - Mensajes aleatorizados - Esta aplicación toma 3 matrices de datos diferentes, escoge de una primera matriz un valor aleatorio, posteriormente escoge del segundo conjunto de datos otro valor aleatorio, teniendo en cuenta la elección en la primera matriz, finalmente toma un último valor aleatorio de un tercer set de datos, lo concatena todo y lo presenta al usuario a manera de un tip o consejo de salud diario. Si desea acceder al repositorio correspondiente puede dar click en el enlace de GitHub a la derecha.
 
-Álbum de recuerdos: h4 - Álbum de recuerdos - Esta página web es un albúm de recuerdos diseñada como "club de fans", que permite ver en un orden cronológico el diario vivir de su admirado. Si desea acceder al repositorio correspondiente puede dar click en el enlace de GitHub a la derecha.
+Álbum de recuerdos: h3 - Álbum de recuerdos - Esta página web es un albúm de recuerdos diseñada como "club de fans", que permite ver en un orden cronológico el diario vivir de su admirado. Si desea acceder al repositorio correspondiente puede dar click en el enlace de GitHub a la derecha.
 
