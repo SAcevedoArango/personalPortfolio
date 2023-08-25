@@ -35,7 +35,7 @@ nav a {
     border: 2px solid black;
     background-color: white;
     padding: 0 1.2rem;
-    margin: 0 auto;
+    margin: 0 1rem;
     font-size: 1.4rem;
     text-decoration: none;
 }
@@ -70,13 +70,11 @@ h2 {
 }
 
 #hidden1 {
-    display: inline-flex;
+    display: flex;
     justify-content: space-between;
     gap: 1.31rem;
-    position: relative;
     text-align: center;
-    margin: 0 auto;
-
+}
 .company {
     width: 6.875rem;
     height: 6.25rem;
@@ -115,4 +113,27 @@ h2 {
     background-image: url("./media/cnx.jpg");
     background-size: cover;
     background-position: 50% 50%;
+}
+
+#hidden1 {
+    display: none;
+}
+
+#balisexexp {
+    display: none;
+}
+#webhelpexp {
+    display: none;
+}
+#tpexp {
+    display: none;
+}
+#limostarexp {
+    display: none;
+}
+#udeaexp {
+    display: none;
+}
+#cnxexp {
+    display: none;
 }

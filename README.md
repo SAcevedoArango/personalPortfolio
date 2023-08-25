@@ -14,11 +14,11 @@ Other information:
 
 Bali:
 
-Bali Sex Store es la comercializadora de juguetes sexuales más grande del país. Allí me desempeñé como "Adminsitrador Web", lo que implicaba las siguientes responsabilidades: Traducir el sitio web al inglés, diseñar e implementar la estrategia SEO y SEM, rehacer las descripciones d eproductos teniendo en cuenta los intereses y la cultura del mercado norteamericano, asegurar el correcto empacado y despacho de mercancías de acuerdo a las disposiciones país. Tiempo: ene. 2020 a feb. 2021.
+Bali Sex Store es la comercializadora de juguetes sexuales más grande del país. Allí me desempeñé como "Adminsitrador Web", lo que implicaba las siguientes responsabilidades: Traducir el sitio web al inglés, diseñar e implementar la estrategia SEO y SEM, recrear las descripciones de productos teniendo en cuenta los intereses y la cultura del mercado norteamericano, asegurar el correcto empacado y despacho de mercancías de acuerdo a las disposiciones país. Tiempo: ene. 2020 a feb. 2021.
 
 Webhelp:
 
-Webhelp, antes conocido como One-Link o GETCOM, es un BPO de servicio al cliente con múltiples clientes a nivel mundial. Allí me desempeñé como "Agente bilingüe integral", lo que implicaba las siguientes responsabilidades: Ofrecer atención general en español y portugués, venta de tiquetes aéreos, realizar cambios voluntarios, manejo de eventos operacionales y asesoría sobre el producto de fidelidad de una importante aerolínea. Tiempo: may. 2015 a dic. 2016.
+Webhelp, antes conocido como One-Link o GETCOM, es un BPO de servicio al cliente con múltiples clientes a nivel mundial. Allí me desempeñé como "Agente bilingüe integral", lo que implicaba las siguientes responsabilidades: Ofrecer atención general en español y portugués, venta de tiquetes aéreos, realizar cambios voluntarios, manejo de eventos operacionales y asesoría sobre el producto de fidelidad de una importante tante aerolínea. Tiempo: may. 2015 a dic. 2016.
 
 Teleperformance:
 
