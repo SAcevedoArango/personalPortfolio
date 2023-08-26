@@ -52,9 +52,6 @@ nav a {
     text-decoration: none;
 }
 
-
-
-
 .subheader {
     font-size: 2.3rem;
     font-style: italic;
@@ -325,6 +322,192 @@ footer h2 {
   }
 
   @media only screen and (max-width: 960px){
-
-
+    body {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    main {
+        border: 2px solid black;
+        width: 100%;
+        position: relative;
+        top: 10rem;
+        left: 35%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    
+    header {
+        background-color: #63474D;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        margin: 0 auto;
+        border: 2px solid black;
+        border-bottom: 0px solid black;
+        position: fixed;
+        z-index: 2;
+    }
+    nav {
+        padding-top: 1.5rem;
+        text-align: right;
+    }
+    
+    nav a {
+        border: 2px solid black;
+        border-radius: 1rem;
+        background-color: white;
+        padding: 0 1.2rem;
+        margin: 1rem 1rem;
+        font-size: 1.4rem;
+        text-decoration: none;
+    }
+    
+    .subheader {
+        font-size: 2rem;
+        font-style: italic;
+        background-color: #D6A184;
+        margin: 0 auto;
+        padding: 1.5rem 2rem;
+        font-family: 'Barlow', sans-serif;
+        text-align: center;
+    }
+    
+    .subheader.b {
+        font-size: 2rem;
+        font-style: italic;
+        background-color: #D6A184;
+        padding: 1.5rem 2rem;
+        text-align: center;
+    }
+    h3 {
+        font-family: 'Barlow', sans-serif;
+    }
+    
+    #who {
+        display: flex;
+        align-content: center;
+        background-color: white;
+        flex-direction: column;
+    }
+    
+    #who img {
+        width: auto;
+        background-size: cover;
+        margin: 0 auto;
+        margin-top: 1rem;
+        border: 2px solid black;
+        border-left: 0px solid black;
+        text-align: center;
+        flex-shrink: 2;
+        position: relative;
+        top: 1rem;
+    }
+    
+    #who p {
+        width: 75%;
+        font-size: 1rem;
+        line-height: 150%;
+        text-align: justify;
+        position: relative;
+        top: 1.5rem;
+        padding-right: 1rem;
+        flex-shrink: 3;
+        margin: 3rem auto;
+        margin-top: 1rem;
+    }
+    #hidden1 {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        margin: 0 0.5rem;
+    }
+    .company {
+        width: 5rem;
+        height: 5rem;
+        border: 1px solid black;
+        text-align: center;
+        margin: 2rem auto;
+        background-image: url("./media/me.jpg");
+        flex-shrink: 2;
+    }
+    #webhelpexp {
+        display: none;
+        background-color: white;
+        border: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+        padding: 1rem;
+        line-height: 150%;
+        text-align: justify;
+        font-size: 1.3rem;
+    }
+    #tpexp {
+        display: none;
+        background-color: white;
+        border: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+        padding: 1rem;
+        line-height: 150%;
+        text-align: justify;
+        font-size: 1.3rem;
+    }
+    #limostarexp {
+        display: none;
+        background-color: white;
+        border: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+        padding: 1rem;
+        line-height: 150%;
+        text-align: justify;
+        font-size: 1.3rem;
+    }
+    #balisexexp {
+        display: none;
+        background-color: white;
+        border: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+        padding: 1rem;
+        line-height: 150%;
+        text-align: justify;
+        font-size: 1.3rem;
+    }
+    #udeaexp {
+        display: none;
+        background-color: white;
+        border: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+        padding: 1rem;
+        line-height: 150%;
+        text-align: justify;
+        font-size: 1.3rem;
+    }
+    #cnxexp {
+        display: none;
+        background-color: white;
+        border: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+        padding: 1rem;
+        line-height: 150%;
+        text-align: justify;
+        font-size: 1.3rem;
+    }
+    .subproject {
+        display: none;
+        justify-content: start;
+        gap: 2rem;
+        padding: 1rem;
+    }
+    .textprojet {
+        width: 80%;
+        height: auto;
+        font-size: 1.3rem;
+        text-align: justify;
+        line-height: 130%;
+    }
   }
