@@ -1,6 +1,6 @@
 html {
     font-size: 16px;
-    background-color: hsla(0, 0%, 0%, 0.8);
+    background-color: #28587B;
     font-family: Helvetica;
   }
 
@@ -17,7 +17,7 @@ main {
 }
 
 header {
-    background-color: #7EBDC3;
+    background-color: #7F7CAF;
     width: 60rem;
     height: 10rem;
     text-align: center;
@@ -45,7 +45,7 @@ nav {
 nav a {
     border: 2px solid black;
     border-radius: 1rem;
-    background-color: white;
+    background-color: #EEEEFF;
     padding: 0 1.2rem;
     margin: 1rem 1rem;
     font-size: 1.4rem;
@@ -55,7 +55,7 @@ nav a {
 .subheader {
     font-size: 2.3rem;
     font-style: italic;
-    background-color: #C6DEA6;
+    background-color: #9FB4C7;
     margin: 0 auto;
     padding: 1rem 2rem;
     font-family: 'Barlow', sans-serif;
@@ -64,7 +64,7 @@ nav a {
 .subheader.b {
     font-size: 2.3rem;
     font-style: italic;
-    background-color: #C6DEA6;
+    background-color: #9FB4C7;
     padding: 1rem 2rem;
     text-align: right;
 }
@@ -75,7 +75,7 @@ h3 {
 #who {
     display: flex;
     align-content: center;
-    background-color: white;
+    background-color: #EEEEFF;
 }
 
 #who img {
@@ -162,7 +162,7 @@ h3 {
 
 #webhelpexp {
     display: none;
-    background-color: white;
+    background-color: #EEEEFF;
     border: 2px solid black;
     border-left: 0px solid black;
     border-right: 0px solid black;
@@ -172,7 +172,7 @@ h3 {
 }
 #tpexp {
     display: none;
-    background-color: white;
+    background-color: #EEEEFF;
     border: 2px solid black;
     border-left: 0px solid black;
     border-right: 0px solid black;
@@ -182,7 +182,7 @@ h3 {
 }
 #limostarexp {
     display: none;
-    background-color: white;
+    background-color: #EEEEFF;
     border: 2px solid black;
     border-left: 0px solid black;
     border-right: 0px solid black;
@@ -192,7 +192,7 @@ h3 {
 }
 #balisexexp {
     display: none;
-    background-color: white;
+    background-color: #EEEEFF;
     border: 2px solid black;
     border-left: 0px solid black;
     border-right: 0px solid black;
@@ -202,7 +202,7 @@ h3 {
 }
 #udeaexp {
     display: none;
-    background-color: white;
+    background-color: #EEEEFF;
     border: 2px solid black;
     border-left: 0px solid black;
     border-right: 0px solid black;
@@ -212,7 +212,7 @@ h3 {
 }
 #cnxexp {
     display: none;
-    background-color: white;
+    background-color: #EEEEFF;
     border: 2px solid black;
     border-left: 0px solid black;
     border-right: 0px solid black;
@@ -225,7 +225,7 @@ h3 {
     flex-direction: column;
     justify-content:space-between;
     margin: 0 auto;
-    background-color: white;
+    background-color: #EEEEFF;
 }
 #project:hover {
     cursor: pointer;
@@ -235,7 +235,7 @@ h3 {
     margin: 0;
     text-align: center;
     color: white;
-    background-color: #7EBDC3;
+    background-color: #7F7CAF;
 }
 .subproject {
     display: none;
@@ -264,7 +264,7 @@ button {
     margin: 0 auto;
 }
 footer {
-    background-color: #7EBDC3;
+    background-color: #7F7CAF;
     width: 60rem;
     height: 10rem;
     text-align: center;
@@ -294,7 +294,7 @@ footer h2 {
     margin: 5px 2px;
   }
   .fa:hover {
-      opacity: 0.7;
+    opacity: 0.7;
   }
   .fa-facebook {
     background: #3B5998;
@@ -338,7 +338,7 @@ footer h2 {
     }
     
     header {
-        background-color: #7EBDC3;
+        background-color: #7F7CAF;
         width: 41rem;
         margin: 0 auto;
         text-align: center;
@@ -364,7 +364,7 @@ footer h2 {
     nav a {
         border: 2px solid black;
         border-radius: 1rem;
-        background-color: white;
+        background-color: #EEEEFF;
         padding: 0 0.5rem;
         margin: 0 auto;
         text-align: center;
@@ -375,7 +375,7 @@ footer h2 {
     .subheader {
         font-size: 2rem;
         font-style: italic;
-        background-color: #C6DEA6;
+        background-color: #9FB4C7;
         margin: 0 auto;
         padding: 1.5rem 2rem;
         font-family: 'Barlow', sans-serif;
@@ -385,7 +385,7 @@ footer h2 {
     .subheader.b {
         font-size: 2rem;
         font-style: italic;
-        background-color: #C6DEA6;
+        background-color: #9FB4C7;
         padding: 1.5rem 2rem;
         text-align: center;
     }
@@ -396,7 +396,7 @@ footer h2 {
     #who {
         display: flex;
         align-content: center;
-        background-color: white;
+        background-color: #EEEEFF;
         flex-direction: column;
     }
     
@@ -442,7 +442,7 @@ footer h2 {
     }
     #webhelpexp {
         display: none;
-        background-color: white;
+        background-color: #EEEEFF;
         border: 2px solid black;
         border-left: 0px solid black;
         border-right: 0px solid black;
@@ -454,7 +454,7 @@ footer h2 {
     }
     #tpexp {
         display: none;
-        background-color: white;
+        background-color: #EEEEFF;
         border: 2px solid black;
         border-left: 0px solid black;
         border-right: 0px solid black;
@@ -467,7 +467,7 @@ footer h2 {
     }
     #limostarexp {
         display: none;
-        background-color: white;
+        background-color: #EEEEFF;
         border: 2px solid black;
         border-left: 0px solid black;
         border-right: 0px solid black;
@@ -480,7 +480,7 @@ footer h2 {
     }
     #balisexexp {
         display: none;
-        background-color: white;
+        background-color: #EEEEFF;
         border: 2px solid black;
         border-left: 0px solid black;
         border-right: 0px solid black;
@@ -493,7 +493,7 @@ footer h2 {
     }
     #udeaexp {
         display: none;
-        background-color: white;
+        background-color: #EEEEFF;
         border: 2px solid black;
         border-left: 0px solid black;
         border-right: 0px solid black;
@@ -506,7 +506,7 @@ footer h2 {
     }
     #cnxexp {
         display: none;
-        background-color: white;
+        background-color: #EEEEFF;
         border: 2px solid black;
         border-left: 0px solid black;
         border-right: 0px solid black;
@@ -531,7 +531,7 @@ footer h2 {
         line-height: 130%;
     }
     footer {
-        background-color: #7EBDC3;
+        background-color: #7F7CAF;
         width: 41rem;
         height: 10rem;
         text-align: center;
