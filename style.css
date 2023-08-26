@@ -1,5 +1,6 @@
 html {
     font-size: 16px;
+    background-color: #AA767C;
   }
 
 body {
@@ -7,13 +8,22 @@ body {
     height: 10rem;
     margin: 0 auto;
 }
+main {
+    border: 2px solid black;
+    position: relative;
+    top: 10rem;
+}
 
 header {
-    background-color: #AA767C;
-    width: 100%;
+    background-color: #63474D;
+    width: 60rem;
     height: 10rem;
     text-align: center;
     margin: 0 auto;
+    border: 2px solid black;
+    border-bottom: 0px solid black;
+    position: fixed;
+    z-index: 2;
 }
 
 header h1 {
@@ -22,7 +32,6 @@ header h1 {
     text-align: center;
     width: 20%;
     float: left;
-
 }
 
 nav {
@@ -46,6 +55,7 @@ nav a {
     background-color: #D6A184;
     margin: 0 auto;
     padding: 1rem 0.5rem;
+    
 }
 
 .subheader.b {
@@ -59,7 +69,7 @@ nav a {
 #who {
     display: flex;
     align-content: center;
-
+    background-color: white;
 }
 
 #who img {
@@ -68,6 +78,8 @@ nav a {
     height: 20rem;
     background-size: cover;
     margin-right: 5rem;
+    border: 2px solid black;
+    border-left: 0px solid black;
 }
 
 #who p {
@@ -77,6 +89,7 @@ nav a {
     text-align: justify;
     position: relative;
     top: 2.5rem;
+    padding-right: 1rem;
 }
 
 #hidden1 {
@@ -130,37 +143,60 @@ nav a {
 }
 #balisexexp {
     display: none;
+    background-color: white;
+    border: 2px solid black;
 }
 #webhelpexp {
     display: none;
+    background-color: white;
+    border: 2px solid black;
 }
 #tpexp {
     display: none;
+    background-color: white;
+    border: 2px solid black;
 }
 #limostarexp {
     display: none;
+    background-color: white;
+    border: 2px solid black;
 }
 #udeaexp {
     display: none;
+    background-color: white;
+    border: 2px solid black;
 }
 #cnxexp {
     display: none;
+    background-color: white;
+    border: 2px solid black;
 }
 #project {
     display: flex;
     flex-direction: column;
     justify-content:space-between;
-    gap: 2rem;
-    margin: 1rem auto;
+    margin: 0 auto;
+    background-color: white;
+}
+#project h3 {
+    padding: 0.8rem;
+    margin: 0;
+    text-align: center;
+    color: white;
+    background-color: #63474D;
 }
 .subproject {
-    display: flex;
+    display: none;
     justify-content: start;
     gap: 10rem;
+    padding: 1rem;
 }
+
 .textprojet {
     width: 28rem;
     height: auto;
+    font-size: 1.2rem;
+    text-align: justify;
 }
 .images {
     width: 20rem;
@@ -169,10 +205,59 @@ nav a {
     background-size: cover;
     background-position: 40% 60%;
     text-align: center;
-
 }
 button {
     position: relative;
     top: 16rem;
     margin: 0 auto;
 }
+footer {
+    background-color: #63474D;
+    width: 100%;
+    height: 10rem;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-top: 0px solid black;
+    position: relative;
+    top: 10rem;
+}
+footer h2 {
+    z-index: 1;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }

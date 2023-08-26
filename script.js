@@ -7,6 +7,10 @@ let cnx = document.getElementById("cnx");
 let test = document.getElementsByClassName("test");
 let workExp = document.getElementById("worksexp");
 let hidden1 = document.getElementById("hidden1");
+let pro1 = document.getElementById("pro1");
+let pro2 = document.getElementById("pro2");
+let pro3 = document.getElementById("pro3");
+let projectsid = document.getElementById("projectsid");
 
 
 function showWorkIcons() {
@@ -62,6 +66,31 @@ function showExp(events) {
         }
 };
 hidden1.addEventListener("click", showExp);
+
+function showPro(events) {
+    let tar = events.target;
+    if (tar == pro1) {
+        pro1sec.style.display = "flex";
+        pro2sec.style.display = "none";
+        pro3sec.style.display = "none";
+    } else if (tar == pro2) {
+        pro1sec.style.display = "none";
+        pro2sec.style.display = "flex";
+        pro3sec.style.display = "none";
+    } else {
+        pro1sec.style.display = "none";
+        pro2sec.style.display = "none";
+        pro3sec.style.display = "flex";
+        }
+};
+project.addEventListener("click", showPro);
+
+function showAllPro(events) {
+    pro1sec.style.display = "flex";
+    pro2sec.style.display = "flex";
+    pro3sec.style.display = "flex";
+};
+projectsid.addEventListener("click", showAllPro);
 
 /*
 let baliSex = document.getElementById("balisex");
