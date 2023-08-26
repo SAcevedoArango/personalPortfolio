@@ -77,7 +77,7 @@ function showPro(events) {
         pro1sec.style.display = "none";
         pro2sec.style.display = "flex";
         pro3sec.style.display = "none";
-    } else {
+    } else if (tar == pro3) {
         pro1sec.style.display = "none";
         pro2sec.style.display = "none";
         pro3sec.style.display = "flex";
